@@ -29,23 +29,24 @@ One of the other things that happened was that increasingly the development of i
 
 This leads to platform bias. Increasingly it seemed the Open Journal System (OJS) made all of that stuff really easy. The demand to move to it was and is still great. Having transitioned one other journal to it - I'd rather stab myself in the eye than do that - needless to say affect plays a part here. OJS embeds logics and hierarchies of traditional academic journal production deep in its terribly convoluted code base - while OJS is open source, its source is completely lacking in agility or openness. While wordpress begins with a simple basic abstraction (posts and pages) and everthing else builds from there OJS attempts to abstract all of the publishing industries' and logics' - meaning there is realistically and without much hacking around only one form of journal that can be produced with it, one form of journal article - it would free FCJ from the demands of meeting those aformentioned metdata requirements, it would be good for citations. We would be thoroughly entrained in the with the 'political economies of the publishing industry' -  we'd have completely *occupied* the academic journal...it'll be great *for* the journal, for its standing, its esteem. It will ensure we have a 'futurity with purpose'....right?
 
-The problem is the the 'academic journal' was an abstraction employed as the basis for maintianing an outlet for intellectual expression and community right? Not for counting citations, or for institutional and corporate indexing, not for the open extraction of its counting of its citation data - but rather the open development of its knowledge and community. In my experience the former is not a function of the latter. In part this is actually not a war on OJS in preference of WP (although I'm happy to go to war) - its an argument that technology is not the root of the problem - the abstraction is and replacing one tech for another won't lead to a refactoring of the underlying and feral absraction. Neither will 'occupying' the abstraction via technology. That was my mistake with wordpress... FCJ should have been an academic blog, not a journal. That would have been one way to test a novel abstraction...I kind of killed that potential by trying to make the Journal and Journal and abstrcation that was already broken/zombified.
+The problem is the the 'academic journal' was an abstraction employed as the basis for maintianing an outlet for intellectual expression and community right? Not for counting citations, or for institutional and corporate indexing, not for the open extraction of its counting of its citation data - but rather the open development of its knowledge and community. In my experience the former is not a function of the latter. In part this is actually not a war on OJS in preference of WP (although I'm i'm good for a fight) - its an argument that technology is not the root of the problem - the abstraction is and replacing one tech for another won't lead to a refactoring of the underlying and feral abstraction. Neither will 'occupying' the abstraction via technology. That was my mistake with wordpress... FCJ should have been an academic blog, not a journal. That would have been one way to test a novel abstraction...I kind of killed that potential by trying to make wordpress an academic Journal - an abstraction that was already broken/zombified and certainly unfit fibrecultural occupation. In the end it feels a little like the Journal abstraction occupied FCJ as an experiment in online open access publishing...in the same way that the publishing industry occupied Openess as Open Access. That is to say it would have been better or worse... but at the very least it would have been a new abstraction. 
+
+We can't actually  know how any abstraction will play out - we have to play it, abstractions demand material research - but we can 'audit' that abstraction in experimentation and play (indeed we have a responsibility to do so) - check that its doing what we signed it up for and if its time to refactor. This has a practica
+
+
+I've done a personal audit of the journal abstraction - admittedly its qualitative and subjective -  and qualified by the fact that I'm not interested in serving either your or my academic career (I dont have one) - but I've decided the journals is a bad abstraction for the things I wanted it for, those two trade-offs I deemed worthy of our submission to the abstractions of the 'political economy of the publishing industries' - as an 'outlet for intellectual expression' and 'a sense of community'. We'd already decided that the 'poltical economy of the publishing industries' has abstracted away these things and we attempted to occupy the journal as a result. But occupying ended up in an inversion of its intent (we should have seen this coming - occupations rarely serve revolutions). 
+
+Where might that refactoring begin? It seems to me that refactoring might go back to consider why we write. Once of the dissapointing aspects of the Journal abstraction is the reality that a journal actually does seem to be the place academic thinking goes to die- Or at least it goes into deep hibernation waiting for a someone searching an index somehwere to temporarily revive in a moment of barely qualified extraction in the form of a citation. What a shitty abstraction for reading most cites are (as discussed in Wall-Smith 2001, Murhpie 2002, Fuller 2008 - note - these is not a rela citation). What a shitty anstraction of impact they are - the equivalent of a hat-tip in the hope of recieving one in return - serving a community of instrumental hat-tippers. As far as I can see we are writing more and more, and reading less and less. How might we refactor writing in the service of encouraging reading and how might we allow reading to fold forward in continuity with writing so that the netwprk becomes a space of agile multilogue - but wait - it already is that - the technology is there and is not the answer anyway , the answer in supporting an ecology of experimentation in open 'minor' abstractions.  
 
 
 
+To conclude I want to suggest that all of this comes down to a demand to refactor those 
 
 
 
-
-
- 
 
 
 reading had become secondary to writing, purposelessness
-
-Tech as the wrong abstraction for journal problems.
-open access as the wrong abstraction for acadmeic freedom.
-occupy as the wrong abstraction for revolution. 
 
 
 
