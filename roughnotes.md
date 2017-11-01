@@ -1,3 +1,5 @@
+I will  place the artificial as a techno-bureacratic artificiality, an automation of relations that (amongst other things) disavows care. That might include a lack of care for each other, for the medium itself, but also more generally a culture of (the) future(s).The promise of online publishing becomes the nightmare of mundane, bureaucratic, and largely automated systems of knowledge management that as much as possible abstract away any actual interaction between knowledge producers (mostly in the interests of quantifying and accounting for knowledge production). Its all about abstraction - and its time to refactor.
+
 The framing statement for this workshop stated that 'the prospect of cognition outsourced to machines is a worry to many'. So I'll start with that - It doesn't worry me in the slightest. Maybe that reflects my status as a precarious knowledge worker and relentless hacker of things and ideas - perhaps I'm less indebted to the knowledge machine, because I couldn't be arsed serving it, dedicating my life to it, I'd rather be running trails or indeed as the framing statement also suggested 'kicking back at another glorious day at the beach'. In previous years it wouldn't have worried me because I'm an experimentalist and technologist...and that was my interest in fibreculture .. surely there was potential for a revolution in knowledge production here right? But I'm done with that...Tech is a bad place to begin - that would be the wrong abstraction built on other wrong abstractions..it tooks me too long to work that out.
 
 So...That said.
@@ -21,17 +23,25 @@ I had experience with Drupal, Wordpress and OJS was just released. All were cand
 
 This was a good start. I still think wordpress was a good abtraction for an academic journal. It needed some tweaking and perhaps an adherence to the form of a traditional journal meant I built complexity into the form that made it more difficult for others to work on the mundane technical stuff that needed to be done. The real mistake was that the academic journal was a shitty abstraction for a system of networked knowledge production, for intellectual expression, and community. This is the crux of this diatribe about feral abstraction. 
 
-For the past 3 years or so FCJ has felt like a beast that required serving and part of a machine that required endless servicing. I have feared impending issues reaching editorial completion just as I knew my fellow managing editors had feared the issues' delivery - and quite rightly - the work was enormous and increasing as the demands to publish meant writing had become secondary to publishing, publishing had become secondary to instituional and professional audit, moreover community had been suffocated out, reading had been abstracted out completely (because you can't measure it) so finding reviewers who would deliver was tough. We increasingly felt like the journal had become 'a publishing service' for time poor academics. Moreover sometimes it felt that as independent community publication we were for many a second or third option - this seemed more true following the arbitrary journal rankings circus took hold - a better example of the inanity of audit culture I am yet to see (dumber than naplan). Of course many who succesfully published with us did so in dedication to the project itself- for these people the journal remained or was worth fighting for as an outlet of intellectual expression and/or community. The editorial and managerial weight of producing the journal however meant that it struggled to serve these people well in the face of other demands. Moreover we were working completely voluntarily and indpendently without institutional support. Which is fine if the journal is serving your (meaning my) needs as well - for me this meant the potential for playing with new forms of knowledge production and intellectual expression _as_ intellectual expression and the basis for community. Of course it provided other things ... esteem and the minor pirvelidge of remaining engaged with academia depsite and in service of my precarious employment. 
+For the past 3 years or so FCJ has felt like a beast that required serving and part of a machine that required endless servicing. I have feared impending issues reaching editorial completion just as I knew my fellow managing editors had feared the issues' delivery - and quite rightly - the work was enormous and increasing as the demands to publish meant writing had become secondary to publishing, publishing had become secondary to instituional and professional audit, moreover community had been suffocated out, reading had been abstracted out completely (because you can't measure it) so finding reviewers who would deliver was tough. We increasingly felt like the journal had become 'a publishing service' for time poor academics. Moreover sometimes it felt that as independent community publication we were for many a second or third option - this seemed more true following the arbitrary journal rankings circus took hold - a better example of the inanity of audit culture I am yet to see (dumber than naplan). Of course many who succesfully published with us did so in dedication to the project itself- for these people the journal remained or was worth fighting for as an outlet of intellectual expression and/or community. The editorial and managerial weight of producing the journal however meant that it struggled to serve these people well in the face of other demands. Moreover we were working completely voluntarily and indpendently without institutional support. Which is fine if the journal is serving your (meaning my) needs as well - for me this meant the potential for playing with new forms of knowledge production and intellectual expression _as_ intellectual expression and the basis for community. Of course it provided other things ... minor esteem and the privelidge of remaining engaged with academia depsite and in service of my precarious employment - but thats never been a very good abstraction of my affect, nor is it a good abstraction in service of intellectual expression or community.
+
+One of the other things that happened was that increasingly the development of infrastructures around open access publishing shifted from experimenting with novel forms and potentialities of openness - of an intellectual commons - to once of competing with (the corporate publishing industry and with other publications) and for the network effect in pursuing citations (a weird abstraction of reading). Time potentially spent between issues working on novel abstractions of knowledge production afforded by my lovely open source and content management system wa spent trying to build plugins to meet the demnds of the next best greatest metadata standard, or the metadata standards of open access repositories, or of corporate or institutional indexers. If I denied that development citations would be sacrificed, the standing of the journal would slip, and so on and so on. While fundamentally opposed to audit culture we seemd completely indebted to its demands as an 'academic journal'. We were using the network - this agile, indeterminate, open beast to 'occupy' a shitty feral industrial abstraction which had already abstracted away intellectual expression and community (many society journals had long ago given over their intellectual capital to publishing houses) as the means to refactor and explore new abstractions for community and intellectual expression (as the fibreculture mailing list serendipitously did). In occupying that feral abstraction we've been pushing shit up hill trying to reaasert the journal as a useful abstraction for intellectual expression and community.
+
+This leads to platform bias. Increasingly it seemed the Open Journal System (OJS) made all of that stuff really easy. The demand to move to it was and is still great. Having transitioned one other journal to it - I'd rather stab myself in the eye than do that - needless to say affect plays a part here. OJS embeds logics and hierarchies of traditional academic journal production deep in its terribly convoluted code base - while OJS is open source, its source is completely lacking in agility or openness. While wordpress begins with a simple basic abstraction (posts and pages) and everthing else builds from there OJS attempts to abstract all of the publishing industries' and logics' - meaning there is realistically and without much hacking around only one form of journal that can be produced with it, one form of journal article - it would free FCJ from the demands of meeting those aformentioned metdata requirements, it would be good for citations. We would be thoroughly entrained in the with the 'political economies of the publishing industry' -  we'd have completely *occupied* the academic journal...it'll be great *for* the journal, for its standing, its esteem. It will ensure we have a 'futurity with purpose'....right?
+
+The problem is the the 'academic journal' was an abstraction employed as the basis for maintianing an outlet for intellectual expression and community right? Not for counting citations, or for institutional and corporate indexing, not for the open extraction of its counting of its citation data - but rather the open development of its knowledge and community. In my experience the former is not a function of the latter. In part this is actually not a war on OJS in preference of WP (although I'm happy to go to war) - its an argument that technology is not the root of the problem - the abstraction is and replacing one tech for another won't lead to a refactoring of the underlying and feral absraction. Neither will 'occupying' the abstraction via technology. That was my mistake with wordpress... FCJ should have been an academic blog, not a journal. That would have been one way to test a novel abstraction...I kind of killed that potential by trying to make the Journal and Journal and abstrcation that was already broken/zombified.
 
 
+
+
+
+
+
+
+ 
 
 
 reading had become secondary to writing, purposelessness
-
-We were using the network - this agile, indeterminate, open beast to 'occupy' a shitty feral industrial abstraction which had already abstracted away intellectual expression and community (many society journals had long ago given over their intellectual capital to publishing houses) as the means to refactor and explore new abstractions for community and intellectual expression (as the fibreculture mailing list serendipitously did). In occupying that feral abstraction we've been pushing shit up hill trying to reaasert the journal as a useful abstraction for intellectual expression and community. 
-
-
-
 
 Tech as the wrong abstraction for journal problems.
 open access as the wrong abstraction for acadmeic freedom.
@@ -50,63 +60,3 @@ occupy as the wrong abstraction for revolution.
 
 
 
-
-
-
-
-
-
-
-
-
-... These are the continuities you'd like to tear down but end up servicing in the mean time and which in their demand for service take away the time required for us to 'refactor' - to explore the potenital new abstractions from which to begin.
-
-In my 
-
-We are surrounded by examples (education, health, capital as the meta-feral continuity etc etc). Today however I want to think about the Journal as a bundle of abstractions that
-
-We are enslaved and serve their continuity because we are indebted to them in some way. Capital is the meta-feral of course but we are surrounded by bad abstractions, the ecology of academic journal publishing is another, but a metric, a standard, a software abstraction or technological abstraction, might also decribe/afford different and/or intertwined kinds of feral (or perhaps zombie) continuity. 
-
-Increasingly publishing The Fibreculture Journal has felt like this depsite its achievements and succeses. It feels Like we are caught up in the continuity of a bad abstraction - or a matrix of bad abstractions. 
-
-
-
-Because we are enslaved/indebted to these assemblages taking a degree of autonomy back by occupying them seems like a good political manouvre. 
-
-The Fibreculture Journal was in some sense founded with that notion and opportunity in mind. 
-
-The opportunities presented by the maturing internet would allow an independence from the dictates and limits of a corporatised academic publishing ecology and would also support the work of an academic community that was fiercely interdisciplinary and which fancied itself as a little bit feral in another sense of the term - grazing in the university quadrangles while dreaming of digital revolutions (how quaintly optimistic revolutions sounds in the age of disruption!). 
-
-Fibreculture was initially a mailing list inspired and descended from nettime (Geert Lovink being the common party) and so it is perhaps interesting to think through the dynamics of this departure.
-
-The journal was founded with Lisa Gye and Andrew Murphie at the helm in part as a means of consolidating and documenting the energy of the meetings and collaborations that the list supported (in terms of knowledge production and organisations) and gave rise to at its height and in part as an extension of fibreculture's political project; The internet would allow the community to effectively 'occupy' academic publishing - the content would be as (or more) rigourous than the corporate academic publishers, double-blind peer reviewed, open access (before it was a 'movement'), and visible, open to the network (published in html - open standards as well as access). It would be a new type of journal fit for a new culture of networked knowledged production. 
-
-The Fibreculture Journal did achieve both of those ends. It consolidated and gave the work begun on the list a continuity that far surpassed its fast,bright, burn and gave a forum to long-form theory and research in a manner that helped define and sustain a particular vector of new and network media and cultural theory. The journal remains completely independent. Indeed -up until recently the journal existed without any formalised legal structure, direct instutional support, or even an address beyond its url while continuing to publish some of the most influential and progressive writers and thinkers in a unique vector of academic inquiry that it continues to define. 
-
-That said we've increasingly found ourselves (those who keep the journal ticking over) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Now this is where I want to sound a warning - all vital abstractions are to some degree 'feral' - that is we are always subject-to one abstraction or another and we should avoid taking the well worn paths of revolutionaries before us to suggest that _our_ abstraction is somehow going to provide us more or less autonomy that  
-
-
-I will  place the artificial as a techno-bureacratic artificiality, an automation of relations that (amongst other things) disavows care. That might include a lack of care for each other, for the medium itself, but also more generally a culture of (the) future(s).The promise of online publishing becomes the nightmare of mundane, bureaucratic, and largely automated systems of knowledge management that as much as possible abstract away any actual interaction between knowledge producers (mostly in the interests of quantifying and accounting for knowledge production). To put it bluntly, there is not much collegiality left in the ecology of publishing (as a precarious knowledge worker, I am not sure if it is still there in the university). What is the role of technology in the production of these feral abstractions? 
-
-At its heart programming is about abstraction. Find the 'good' abstraction and the program tends to write itself - which I suppose is an extension of finding a good metaphor when writing. A 'good' abstraction is however in very rare occasions the 'right' abstraction - Where the right abstraction is one that demonstrates and elucidates the intention with which the programmer proposed it.  A weed has arguably evolved as great abstraction of wide ranging environmental conditions. A weed is rarely the 'right' abstraction for the environment onto which it grafts. A (good) programmer is continuously 'refactoring' - a term which I think is unique to programming and which refers to the realisation that at some point the abstraction upon which your program is built is fundamentally limiting or distracting and that the only way forward is to rewrite the program from scratch. Refactoring is never a failure - it is a realisation made via an immersion in the mechanics of the abstraction and its interaction with the language upon which it builds. Of course you need to be immersed in these mechanics in order to realise the need to refactor or how to go about it - otherwise you are left to critique as subject-to the abstraction (and critique is subject of it own its mediums abstractions as well). 
-
-Having finally exhausted any remnant of techno-optimism I am reluctant to propose that what we need are new abstractions, to refactor academic knowledge production - to move well away from the demands to account, quantify and measure based on the exisiting ones and to refactor modes of 'academic' writing and communicating (of course 'academic' might well be the wrong abstraction).
