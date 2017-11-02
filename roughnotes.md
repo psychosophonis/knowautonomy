@@ -1,18 +1,18 @@
 Disclaimer. Who am I.
 - My interest. 
 - Im a hacker @ heart... I enjoy hacking ideas, machines, code in order to explore what they might do.
-  and so im interested in Radical experiments in theory/knowledge production - more than I am in academic publishing -per se. I guess I want to talk about how I spent the last ten years servicing an academic journal nonetheless. In fact my interest in fcj was intially as a place/group/platform that would support such rethinkings - and they/it did indeed.... so I guess I want to talk about how we spent the last ten years servicing an academic journal.
+  and so im interested in Radical experiments in theory/knowledge production - more than I am in academic publishing -per se. I guess I want to talk about how I spent the last ten years servicing an academic journal nonetheless. In fact my interest in fcj was intially as a place/group/platform that would support such rethinkings - and they/it did indeed.... so I guess I also want to talk about how we spent the last ten years servicing an academic journal.
   
-- I've also spent a considerable amount of time thinking through and writing about cognition, cognitve ecologies, the relationship between mind and media, and the position of technology with regard to our ecology of thinking and feeling. Without restating the whole thing I was fascinated on the one hand by Brian Massumi's positioning of affect as central to cognition - perception as cognition largely autonomic as oppsed to autonomous  - and on the other hand Stielger's Technics and Time which begins with 'technics apprehended as the horizon of all possibilty to come and all possibilty of a future.' 
-- Much of this came out of a concern for how we might best build what Stiegler called 'technologies of mind' and which I like to think as a 'spirited technics'. 
-- For me then the most inetresting question posed yesterday was nit
-- OA and Open Source seemd like a radical intervention at the time with lots of potenitla for experimentation.
-- 
-- Central to what I want to say is that I think perhaps while The Fibreculture Journal was effectively occupied by the journal as a particular abstraction of academic writing.
-- Something came up a lot for me yesterday was the question of why we write...The question of relevance, purpose 
- 
+I wonder if while our intent in exploring online publishing, open access and open source an attempt to 'occupy the academic journal' actually ended up occupying fibreculture..
+
+- and a a proviso.... after yesterday I madly rewrote my already rewritten dot points become paper - become book chapter- become monograph - and had to search FCJ for a reference .... and I kind of suddenly realised how cool it is - and that I should stop being a critical bastard and just let it be... and thnaks everybody who continuted because its a terrific archive of interesting work. Its more than enough.
   
- 
+- I've also spent a considerable amount of time thinking through and writing about cognition, cognitve ecologies, the relationship between mind and media, and the position of technology with regard to our ecology of thinking and feeling. Without restating the whole thing I was fascinated on the one hand by Brian Massumi's positioning of affect as central to cognition - perception as cognition largely autonomic as opposed to autonomous  - and on the other hand Stielger's Technics and Time which begins with 'technics apprehended as the horizon of all possibilty to come and all possibilty of a future.' 
+
+- Much of this came out of a concern for how we might best build what Stiegler called 'technologies of mind' and which I like to think as a 'spirited technics'. To put it as simply straightforwardly as possible - I'm interested in how we are always thinking with and through technics/machines - and so the interesting question (for me) is how are we doing so - and how might we do it better or differently. 
+
+The idea of an abstraction...as a kind of proto technics - forming a horizon of technical possibility...frames my thinking.. 
+
 ## Introduction
 
 Ton answer and think through the framing statements prospect of cognition outsourced to machines doesn't really worry me.  
