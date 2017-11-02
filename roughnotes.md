@@ -1,15 +1,23 @@
 Disclaimer. Who am I.
 - My interest. 
-- Radical experiments in theory/knowledge production.
-- OA and Open Source seemd like a radical intervention at the time with lots of potenitla for experimentation.
 - Im a hacker @ heart... I enjoy hacking ideas, machines, code in order to explore what they might do.
+  and so im interested in Radical experiments in theory/knowledge production - more than I am in academic publishing -per se. I guess I want to talk about how I spent the last ten years servicing an academic journal nonetheless. In fact my interest in fcj was intially as a place/group/platform that would support such rethinkings - and they/it did indeed.... so I guess I want to talk about how we spent the last ten years servicing an academic journal.
+  
+- I've also spent a considerable amount of time thinking through and writing about cognition, cognitve ecologies, the relationship between mind and media, and the position of technology with regard to our ecology of thinking and feeling. Without restating the whole thing I was fascinated on the one hand by Brian Massumi's positioning of affect as central to cognition - perception as cognition largely autonomic as oppsed to autonomous  - and on the other hand Stielger's Technics and Time which begins with 'technics apprehended as the horizon of all possibilty to come and all possibilty of a future.' 
+- Much of this came out of a concern for how we might best build what Stiegler called 'technologies of mind' and which I like to think as a 'spirited technics'. 
+- For me then the most inetresting question posed yesterday was nit
+- OA and Open Source seemd like a radical intervention at the time with lots of potenitla for experimentation.
+- 
 - Central to what I want to say is that I think perhaps while The Fibreculture Journal was effectively occupied by the journal as a particular abstraction of academic writing.
 - Something came up a lot for me yesterday was the question of why we write...The question of relevance, purpose 
-
+ 
+  
  
 ## Introduction
 
-The prospect of cognition outsourced to machines doesn't worry me in the slightest. Maybe that reflects my status as a precarious knowledge worker and relentless hacker of things and ideas. If the machine can produce knowledge worth reading/using, knowledge that posesses some value, then I really can't see the worry. More of a worry is an assemblage that produces knowledge in order to shore up its own sense of purpose, that endlessly writes in order to be counted, rather than to be _read_ or in the _service of intellectual expression_ , or of _community_. Perhaps because the machine has not abstracted knowledge production as a means to a livelihood it would only write in order to be read. 
+Ton answer and think through the framing statements prospect of cognition outsourced to machines doesn't really worry me.  
+
+. Maybe that reflects my status as a precarious knowledge worker and relentless hacker of things and ideas. If the machine can produce knowledge worth reading/using, knowledge that posesses some value, then I really can't see the worry. More of a worry is an assemblage that produces knowledge in order to shore up its own sense of purpose, that endlessly writes in order to be counted, rather than to be _read_ or in the _service of intellectual expression_ , or of _community_. Perhaps because the machine has not abstracted knowledge production as a means to a livelihood it would only write in order to be read. 
 
 Perhaps that is the refactoring of the set of abstractions around writing that needs to happen. Yes - there are machines and algorithms that serve corporations who are concerned with livelihood - but that is another kind of assemblage altogether. 
 
