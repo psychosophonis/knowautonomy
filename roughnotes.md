@@ -1,27 +1,27 @@
-Disclaimer. Who am I.
-- My interest. 
-- Im a hacker @ heart... I enjoy hacking ideas, machines, code in order to explore what they might do.
-  and so im interested in Radical experiments in theory/knowledge production - more than I am in academic publishing -per se. I guess I want to talk about how I spent the last ten years servicing an academic journal nonetheless. In fact my interest in fcj was intially as a place/group/platform that would support such rethinkings - and they/it did indeed.... so I guess I also want to talk about how we spent the last ten years servicing an academic journal.
-  
-I wonder if while our intent in exploring online publishing, open access and open source an attempt to 'occupy the academic journal' actually ended up occupying fibreculture..
+- My interest here. 
+- I enjoy hacking ideas, machines, code in order to explore what they might do.
 
-- and a a proviso.... after yesterday I madly rewrote my already rewritten dot points become paper - become book chapter- become monograph - and had to search FCJ for a reference .... and I kind of suddenly realised how cool it is - and that I should stop being a critical bastard and just let it be... and thnaks everybody who continuted because its a terrific archive of interesting work. Its more than enough.
-  
-- I've also spent a considerable amount of time thinking through and writing about cognition, cognitve ecologies, the relationship between mind and media, and the position of technology with regard to our ecology of thinking and feeling. Without restating the whole thing I was fascinated on the one hand by Brian Massumi's positioning of affect as central to cognition - perception as cognition largely autonomic as opposed to autonomous  - and on the other hand Stielger's Technics and Time which begins with 'technics apprehended as the horizon of all possibilty to come and all possibilty of a future.' 
+- Im interested in Radical experiments in theory/knowledge production - more than I am in academic publishing -per se. I guess I want to talk about how for ten years i worked voluntarily in academic publishing.
 
-- Much of this came out of a concern for how we might best build what Stiegler called 'technologies of mind' and which I like to think as a 'spirited technics'. To put it as simply straightforwardly as possible - I'm interested in how we are always thinking with and through technics/machines - and so the interesting question (for me) is how are we doing so - and how might we do it better or differently. 
+-In fact my interest in fcj was intially as a place/group/platform that would support such rethinkings and experimentation - and they/it did (in spirit).... so I guess I also want to talk about how we all spent the last ten years servicing and contributing to an academic journal.
+  
+I wonder if while our intent in exploring online publishing, open access and open source an attempt to 'occupy the academic journal' actually ended up occupying fibreculture - and in that case whether or not the journal and  the journal article was at root a bad abstraction for academic thought and that occupying anything is actually a shitty poltical abstraction. We shouldn't have occupied...we should have refactored the abstraction with whihc we proceeeded. 
+
+- I've should also acknowledge taht is spent a considerable amount of time thinking through and writing about cognition, cognitive ecologies, the relationship between mind and media, and the position of technology with regard to our ecology of thinking/feeling. 
+
+-Without restating the whole thing I was fascinated on the one hand by Brian Massumi's positioning of affect as central to cognition - perception as cognition largely autonomic as opposed to autonomous  - and on the other hand Stielger's Technics and Time which begins with 'technics apprehended as the horizon of all possibilty to come and all possibilty of a future.' 
+
+- Much of this came out of a concern for how we might best build what Stiegler called 'technologies of mind' and which I like to think as a 'spirited technics'. To put it as simply straightforwardly as possible - I'm interested in how we are always thinking with and through technics/machines - and so the interesting question (for me) is  not so much a concern for outscourcing our cognition to machines - but how are we are always doing so - and how might we do it better or differently. 
+
+There is a curious play between words autonomy and autonomic in their general use...
 
 The idea of an abstraction...as a kind of proto technics - forming a horizon of technical possibility...frames my thinking.. 
+ 
+- and a a proviso.... after yesterday I madly rewrote my already rewritten dot points become paper - become book chapter- become monograph - and had to search FCJ for a reference .... and I kind of suddenly realised how cool it is - and that I should stop being a critical bastard and just let it be... and thankseverybody who contributed because its a terrific archive of interesting work. Its more than enough. 
 
-## Introduction
+So in dialogue with the workshop's framing statement I'm not so concerened with the outcourscing of cognition. The kind of artificial that concerns me is rather a techno-bureacratic artificiality-  an automation of relations that (amongst other things) disavows care. That might include a lack of care for each other, for the medium itself, for intellectual expression ,but also more generally a culture of (the) future(s). 
 
-Ton answer and think through the framing statements prospect of cognition outsourced to machines doesn't really worry me.  
-
-. Maybe that reflects my status as a precarious knowledge worker and relentless hacker of things and ideas. If the machine can produce knowledge worth reading/using, knowledge that posesses some value, then I really can't see the worry. More of a worry is an assemblage that produces knowledge in order to shore up its own sense of purpose, that endlessly writes in order to be counted, rather than to be _read_ or in the _service of intellectual expression_ , or of _community_. Perhaps because the machine has not abstracted knowledge production as a means to a livelihood it would only write in order to be read. 
-
-Perhaps that is the refactoring of the set of abstractions around writing that needs to happen. Yes - there are machines and algorithms that serve corporations who are concerned with livelihood - but that is another kind of assemblage altogether. 
-
-That is the form 'artificial' 'intelligence' that does worry me. Its is a techno-bureacratic artificiality, an automation of relations that (amongst other things) disavows care. That might include a lack of care for each other, for the medium itself, for intellectual expression ,but also more generally a culture of (the) future(s). The most frightening instances of 'artificial intelligence' or 'autonomous systems' are perhaps those of the bureaucracy and policy, feral abstractions that have become infrastructural in a weird sense of the term - rather than persisting by becoming invisible and universal in adoption they sustain themselves via their relentless demands for service and debt calling, and in doing suck the energy out of any potential for addressing or redressing the abstraction that provides the basis for their continuity. These are almost always frankenstein monsters - hybrids - where the machines' affective drive -  is outsourced to humans.. a much bigger problem in my mind than cognition outsourced to machines/policy/technology  - technology thought in a more general Stieglerian sense. 
+The most frightening instances of 'artificial intelligence' or 'autonomous systems' are perhaps those of the bureaucracy and policy, feral abstractions that have become infrastructural in a weird sense of the term - rather than persisting by becoming invisible and universal in adoption they sustain themselves via their relentless demands for service and debt calling, and in doing suck the energy out of any potential for addressing or redressing the abstraction that provides the basis for their continuity. These are almost always frankenstein monsters - hybrids - where the machines' affective drive -  is outsourced to humans.. a much bigger problem in my mind than cognition outsourced to machines/policy/technology  - technology thought in a more general Stieglerian sense. 
 
 
 ## Frankenmonsters in Education.
