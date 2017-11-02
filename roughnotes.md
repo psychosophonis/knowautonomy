@@ -1,27 +1,31 @@
-- My interest here. 
-- I enjoy hacking ideas, machines, code in order to explore what they might do.
+- Who are you? Why are you here? Fibreculture, UOW, Polygon Door.
 
-- Im interested in Radical experiments in theory/knowledge production - more than I am in academic publishing -per se. I guess I want to talk about how for ten years i worked voluntarily in academic publishing.
+- I enjoy hacking ideas, machines, code in order to explore what they might do. To that end I'm interested in exploring novel 'abstractions'in knowledge production musch more than I am in academic publishing -per se. I guess I want to talk about how for ten years i worked voluntarily in academic publishing in spite of that.
 
--In fact my interest in fcj was intially as a place/group/platform that would support such rethinkings and experimentation - and they/it did (in spirit).... so I guess I also want to talk about how we all spent the last ten years servicing and contributing to an academic journal.
+- In fact my interest in the fibreculture was intially as a place/group/platform that would support such rethinkings and experimentation .... so I guess I also want to talk about how we all spent the last ten years servicing and contributing to an academic journal in spit of that.
   
-I wonder if while our intent in exploring online publishing, open access and open source an attempt to 'occupy the academic journal' actually ended up occupying fibreculture - and in that case whether or not the journal and  the journal article was at root a bad abstraction for academic thought and that occupying anything is actually a shitty poltical abstraction. We shouldn't have occupied...we should have refactored the abstraction with whihc we proceeeded. 
+I wonder if while Fibreculture's intent in exploring online publishing, open access and open source  -an attempt to 'occupy the academic journal'- actually ended up occupying fibreculture more generally - and in that case whether or not the journal and  the journal article was at root- a poor abstraction for intellectual expression and academic community. 
 
-- I've should also acknowledge taht is spent a considerable amount of time thinking through and writing about cognition, cognitive ecologies, the relationship between mind and media, and the position of technology with regard to our ecology of thinking/feeling. 
+In extension of that perhaps I want to ask whether the notion of 'occupying' anything is actually a bad poltical abstraction. We shouldn't have occupied the journal...we should have refactored.. experimented with novel abstractions. Maybe there is something interesting here regarding what I think Ned refered to yesterday as an _autonomy of politics_ as opposed to a _political autonomy_....  
 
--Without restating the whole thing I was fascinated on the one hand by Brian Massumi's positioning of affect as central to cognition - perception as cognition largely autonomic as opposed to autonomous  - and on the other hand Stielger's Technics and Time which begins with 'technics apprehended as the horizon of all possibilty to come and all possibilty of a future.' 
+- I've should also acknowledge that there was another project in whihc I spent considerable amount of time thinking through and writing about cognition, cognitive ecologies, the relationship between mind and media, and the position of technology with regard to our ecology of thinking/feeling. - Without restating the whole thing I was fascinated on the one hand by Brian Massumi's positioning of affect as central to cognition - perception as cognition largely _autonomic_ as opposed to _autonomous_  and on the other hand Stielger's Technics and Time which begins with _'technics apprehended as the horizon of all possibilty to come and all possibilty of a future.'_ 
 
-- Much of this came out of a concern for how we might best build what Stiegler called 'technologies of mind' and which I like to think as a 'spirited technics'. To put it as simply straightforwardly as possible - I'm interested in how we are always thinking with and through technics/machines - and so the interesting question (for me) is  not so much a concern for outscourcing our cognition to machines - but how are we are always doing so - and how might we do it better or differently. 
+- Much of this came out of a concern for how we might best build what Stiegler called 'technologies of mind' and which I like to think as a 'spirited technics'. To put it as simply straightforwardly as possible - I'm interested in how we are always thinking with and through technics/machines - and so the interesting question (for me) is  not so much a concern for outscourcing of our cognition to machines - but how are we are always doing so, have always done so - and how might we do it better or differently. 
 
-There is a curious play between words autonomy and autonomic in their general use...
+I think there is a beguiling play between words autonomy and autonomic here.. and so I wonder if an autonomy of poltics might depend on careful attention to the autonomic continuities that begin with an intial abstraction and the way that abstraction modulates our interaction with a particular machine/algorithm.
 
-The idea of an abstraction...as a kind of proto technics - forming a horizon of technical possibility...frames my thinking.. 
+I'm positing an abstraction as a kind of proto technics - forming a horizon of technical possibility...
  
-- and a a proviso.... after yesterday I madly rewrote my already rewritten dot points become paper - become book chapter- become monograph - and had to search FCJ for a reference .... and I kind of suddenly realised how cool it is - and that I should stop being a critical bastard and just let it be... and thankseverybody who contributed because its a terrific archive of interesting work. Its more than enough. 
+- and a a proviso.... after yesterday I madly rewrote my already rewritten dot points become paper - become book chapter- become monograph - and had to search FCJ for a reference .... and I kind of suddenly realised how cool it is - and that I should stop being a critical bastard and just let it be... and thank everybody who contributed because its a terrific archive of interesting work. Its more than enough. But what now..
 
-So in dialogue with the workshop's framing statement I'm not so concerened with the outcourscing of cognition. The kind of artificial that concerns me is rather a techno-bureacratic artificiality-  an automation of relations that (amongst other things) disavows care. That might include a lack of care for each other, for the medium itself, for intellectual expression ,but also more generally a culture of (the) future(s). 
+----------------
 
-The most frightening instances of 'artificial intelligence' or 'autonomous systems' are perhaps those of the bureaucracy and policy, feral abstractions that have become infrastructural in a weird sense of the term - rather than persisting by becoming invisible and universal in adoption they sustain themselves via their relentless demands for service and debt calling, and in doing suck the energy out of any potential for addressing or redressing the abstraction that provides the basis for their continuity. These are almost always frankenstein monsters - hybrids - where the machines' affective drive -  is outsourced to humans.. a much bigger problem in my mind than cognition outsourced to machines/policy/technology  - technology thought in a more general Stieglerian sense. 
+So in dialogue with the workshop's framing statement while I'm not so concerened with the outsourcing of cognition - we have always outsourced cognition - I am more worried about the way machines outsource their affect. The kind of artificial that concerns me is a techno-bureacratic artificiality-  an automation of relations that (amongst other things) disavows care. That might include a lack of care for each other, for the medium itself, for intellectual expression ,but also more generally a culture of futures or futurity.
+
+The most woriesome of 'artificial intelligence' or 'autonomous systems' are perhaps those of the bureaucracy and policy in which feral abstractions have become oddly infrastructural - oddly because they remain visible, we'd like to replace them or update them, but they sustain themselves via their relentless demands for service and debt calling, and in doing suck the energy out of any potential for addressing or redressing the abstraction that provides the basis for their continuity. 
+
+
+
 
 
 ## Frankenmonsters in Education.
@@ -77,7 +81,9 @@ reading had become secondary to writing, purposelessness
 
 
 
+We came upon this problem yesterday when Liam was discussing the three recent papers - we were speaking about the anxiety produced of the way machine learning seemed to be able to 'think better' than we can - to beat us at our own games. But at the same time we discussed the notion that the alien game play of the machine seemed to divulge something novel about the game itself - new ways of playing - new potential for aesthetic intrigue in the play of the machine itself. 
 
+When discussing the nvidia paper we noted that the output was super-normative... precisely because - it is a difference that makes a difference when it comes aesthetic novelty. The _selection_ of a difference, of novelty as valued and valuable is where machine learning falls short. The machine learning algorithm works weel in gaming because we can stipulate the conditions for a win. As someone put it nicely yesterday in the arts and humanities we dont know how to win  -  that said - we know it when we see it. So while machine's are a powerful means for producing novelty they are hopeless at realising when a particular novelty is interesting. The most interesting thing in both cases was not that an algorithm could 'think better than us' but that it could produce novelty - aesthetic intrigue, new understanding of the game - that it could never 'select' for.
 
 
 
