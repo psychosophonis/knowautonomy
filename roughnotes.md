@@ -1,16 +1,16 @@
 ## 1.
 
-- Who are you? Why are you here? 
-
+Who am I?
 - Fibreculture
-- UOW - where I use media art, code, and aesthetics to teach _abstraction_, 
-- A year and a half ago I founded Polygon Door - and attempt to forge an academic life of material research outside either university or corporation..
+- UOW - where I've used media art, code, and aesthetics to teach _abstraction_ 
+In fact it took me a long time to realise that was what I was doing in 'new media' (perhaps this year)... that is why we called it that in the first place giving to terms like digital media was a disaster (another article here).
+- Polygon Door an attempt to forge an academic life of material research outside either university or corporation..
 
 - I enjoy hacking ideas, machines, code in order to explore what they might do. 
 
-To that end I'm interested in exploring novel 'abstractions'in knowledge production much more than I am in __academic publishing__ -per se. I want to talk about how for ten years i worked voluntarily in academic publishing in spite of that - I kind of diversion of labour away from an intent to experiment.
+To that end I'm interested in exploring novel 'abstractions'in knowledge production much more than I am in __academic publishing__ -per se. I want to talk about how for ten years i worked voluntarily in academic publishing in spite of that - I kind of diversion of labout and energy away from an intent to experiment.
 
-- In fact my interest in the fibreculture was intially as a place/group/platform that would support such rethinkings and experimentation ....and it was so I also want to talk about how we _all_ spent the last ten years servicing and contributing to an academic journal in spite of that.
+- In fact my interest in the Fibreculture was intially as a place/group/platform that would support such rethinkings and experimentation... a group fundamentally thinking through the possibilties of new media ....and it was so I also want to talk about how we _all_ spent the last ten years servicing and contributing to an academic journal in spite of that.
 
 To put it another way..
   
