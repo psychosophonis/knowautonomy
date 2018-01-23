@@ -39,5 +39,11 @@ But wait.... I've got it all round the wrong way... we didn't want an industry..
 
 
 
+--------------
 
+Deleted paragraph post edit... not needed anywhere and repeated
+
+I want to return to a disucusssion we had yesterday base on Liam's account of those three instances of machine learning. We were speaking about the anxiety produced of the way machine learning seemed to be able to 'think better' than we can - to beat us at our own games. But at the same time we discussed the notion that the alien game play of the machine seemed to divulge something novel about the game itself - new ways of playing - new potential for aesthetic intrigue in the play of the machine itself. This was the most interesting thing about these examples - the production of a weird uncanny morphing of heavily touched up faces, the realisation of a new aesthetic intrigue in the alien play of the machine, the realisation of ways and means of playing beyond our existing and dominant habits and processes - all of which  exist neither within the machine, nor within the body but in their relation - there is a thinking with the machine here that can't be done without either the machines potential for an autonomy of sorts or the human bodies potenital for realising a difference that makes a difference. So while machine's are a powerful means for producing novelty they are hopeless at realising when a particular novelty is interesting. The most interesting thing in both cases was not that an algorithm could 'think better than us' but that it could produce novelty - aesthetic intrigue, new understanding of the game - that it could never 'select' for and we couldn't have imagined...we needed the autonomy of the machine to afford the realisation of a novel aesthetic or conceptual intrigue between body and world. Perhaps this is an interesting place to look for novel abstractions... to hack the archive...but can i do it from the beach??
+
+___
 
